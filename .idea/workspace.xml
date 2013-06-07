@@ -10,14 +10,29 @@
     <file path="/PlainEncoder.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369429730522" ignored="false" />
     <file path="/InvertEncoder.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369429610278" ignored="false" />
     <file path="/MainApplication.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1368820776094" ignored="false" />
-    <file path="/CypherEncoder.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369429324043" ignored="false" />
-    <file path="/fragment.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1368822793718" ignored="false" />
+    <file path="/CypherEncoder.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369951799937" ignored="false" />
+    <file path="/fragment.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370644656763" ignored="false" />
     <file path="/InverseEncoderTest.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369430066943" ignored="false" />
-    <file path="/DaooTaskServer.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369427573430" ignored="false" />
-    <file path="/Task.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369430204832" ignored="false" />
+    <file path="/DaooTaskServer.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370645821714" ignored="false" />
+    <file path="/Task.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369953066363" ignored="false" />
     <file path="/NewThreadTaskExecutor.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369426235295" ignored="false" />
     <file path="/DecoderTask.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369428084318" ignored="false" />
-    <file path="/EncoderTask.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369430977658" ignored="false" />
+    <file path="/EncoderTask.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370646435183" ignored="false" />
+    <file path="/EncoderTask2.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1369950802077" ignored="false" />
+    <file path="$USER_HOME$/Downloads/Programa de misas/src/view/MainFrame.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370384405707" ignored="false" />
+    <file path="/MainFrame.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370384390349" ignored="false" />
+    <file path="$USER_HOME$/Downloads/Programa de misas/src/control/ServicesProgram.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370383460028" ignored="false" />
+    <file path="/ServicesProgram.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370383143872" ignored="false" />
+    <file path="$USER_HOME$/Downloads/Programa de misas/src/control/actions/NewFileAction.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370383166382" ignored="false" />
+    <file path="$USER_HOME$/Downloads/Programa de misas/src/control/actions/OpenFileAction.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370383171923" ignored="false" />
+    <file path="$USER_HOME$/Downloads/Programa de misas/src/view/javaFileChooser/extencionFilters/DBFExtensionFilter.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370383598845" ignored="false" />
+    <file path="/EchoTask.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370644426022" ignored="false" />
+    <file path="/InfiniteTask.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370645040692" ignored="false" />
+    <file path="/SleepyTask.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370645045595" ignored="false" />
+    <file path="$USER_HOME$/Desktop/lolodaoo/DAOO/IOC/contrib/src/main/java/daoo/Main.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370645878107" ignored="false" />
+    <file path="/SimpleEncoder.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370648055838" ignored="false" />
+    <file path="/Main.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370648371879" ignored="false" />
+    <file path="/DaooEncoderServer.java" changelist="6ea125b8-5d3d-4592-801d-35cec164f4c1" time="1370648465289" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +47,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -67,6 +81,23 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/SimpleEncoder.java" line="41" class="daoo.encoder.SimpleEncoder" package="daoo.encoder">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -76,37 +107,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CypherEncoder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/CypherEncoder.java">
+      <file leaf-file-name="EchoTask.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/EchoTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="26" selection-start="1873" selection-end="1873" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="14" column="31" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#echo#0;class#EchoTask#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DaooTaskServer.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/daoo/server/src/main/java/daoo/server/DaooTaskServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="40" selection-start="722" selection-end="767" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Task.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/daoo/server/src/main/java/daoo/server/Task.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="36" selection-start="3349" selection-end="3362" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EncoderTask.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EncoderTask.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/EncoderTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="38" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.45406124">
+            <state line="16" column="35" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InfiniteTask.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/InfiniteTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="13" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,56 +139,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MessageEncoder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/daoo/ioc/MessageEncoder.java">
+      <file leaf-file-name="SleepyTask.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/SleepyTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="31" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0">
+            <state line="12" column="13" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueuedTaskExecutor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/executors/QueuedTaskExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="45" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PoolThreadTaskExecutor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/executors/PoolThreadTaskExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="45" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DaooEncoderServer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/servers/DaooEncoderServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="50" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskServer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/daoo/server/TaskServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="45" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InvertEncoder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/InvertEncoder.java">
+      <file leaf-file-name="NewThreadTaskExecutor.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/executors/NewThreadTaskExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="50" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainApplication.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/MainApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="29" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PlainEncoder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/PlainEncoder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="34" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InverseEncoderTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contrib/src/test/java/daoo/encoder/InverseEncoderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="37" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageEncoderProvider.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/daoo/ioc/MessageEncoderProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="12" column="54" selection-start="284" selection-end="284" vertical-scroll-proportion="0.40268457">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,28 +224,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/contrib/src/daoo/encoder/MainApplication.java" />
-        <option value="$PROJECT_DIR$/core/src/daoo/ioc/MessageEncoderProvider.java" />
-        <option value="$PROJECT_DIR$/contrib/src/daoo/encoder/CypherEncoder.java" />
-        <option value="$PROJECT_DIR$/core/src/main/resources/META-INF/services/daoo.ioc.MessageEncoder" />
-        <option value="$PROJECT_DIR$/contrib/src/main/resources/META-INF/services/daoo.ioc.MessageEncoder" />
-        <option value="$USER_HOME$/daoo/server/src/main/java/daoo/server/NewThreadTaskExecutor.java" />
-        <option value="$USER_HOME$/daoo/server/src/main/java/daoo/server/DaooTaskServer.java" />
-        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/DecoderTask.java" />
-        <option value="$USER_HOME$/daoo/server/src/main/java/daoo/server/EncoderTask.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/daoo/ioc/MessageEncoder.java" />
-        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/CypherEncoder.java" />
-        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/InvertEncoder.java" />
-        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/PlainEncoder.java" />
-        <option value="$PROJECT_DIR$/contrib/src/test/java/daoo/encoder/InverseEncoderTest.java" />
-        <option value="$USER_HOME$/daoo/server/src/main/java/daoo/server/Task.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/servers/NewThreadTaskExecutor.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/daoo/server/Main.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/SleepyTask.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/InfiniteTask.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/daoo/server/Task.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/daoo/server/TaskExecutor.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/SimpleEncoder.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/daoo/server/TaskServer.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/executors/NewThreadTaskExecutor.java" />
         <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/EncoderTask.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/EchoTask.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/Main.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/servers/DaooEncoderServer.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/servers/DaooTaskServer.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/executors/QueuedTaskExecutor.java" />
+        <option value="$PROJECT_DIR$/contrib/src/main/java/daoo/executors/PoolThreadTaskExecutor.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="10" />
+    <option name="y" value="22" />
+    <option name="width" value="1420" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -255,6 +303,10 @@
               <option name="myItemId" value="IOC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -272,7 +324,221 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IOC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IOC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="contrib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IOC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contrib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IOC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contrib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IOC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contrib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IOC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contrib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IOC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contrib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IOC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contrib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="executors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IOC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contrib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="encoder" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,6 +547,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/contrib/src/main/java/daoo" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="OverrideImplement.combined" value="false" />
@@ -288,51 +555,37 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode" />
-    <property name="last_opened_file_path" value="$USER_HOME$/daoo/server/server.iml" />
+    <property name="options.lastSelected" value="preferences.externalTools" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/commons-codec-1.2.jar!/" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="FullScreen" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/src/main/java/daoo.server" />
+      <recent name="$PROJECT_DIR$/contrib/src/main/java/daoo" />
+      <recent name="$PROJECT_DIR$/contrib/src/main/java/daoo/server" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="daoo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/src/main/java" />
       <recent name="$PROJECT_DIR$/contrib/src/test/resources" />
       <recent name="$PROJECT_DIR$/contrib/src/main/java" />
       <recent name="$PROJECT_DIR$/contrib/src/main" />
       <recent name="$PROJECT_DIR$/core/src/main/java" />
-      <recent name="$PROJECT_DIR$/core/src/main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CypherEncoder">
-    <configuration default="false" name="MainApplication" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="daoo.encoder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="daoo.encoder.MainApplication" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="contrib" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="CypherEncoder" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -383,28 +636,6 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="daoo.server.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="daoo.server.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="server" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="InverseEncoderTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -433,6 +664,56 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="daoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="daoo.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="contrib" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleEncoder" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="daoo.encoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="daoo.encoder.SimpleEncoder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="contrib" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -445,6 +726,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -473,19 +767,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -525,19 +806,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MainApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CypherEncoder" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.daoo.encoder in contrib" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CypherEncoder" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.daoo.encoder in contrib" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.InverseEncoderTest" />
       <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.InverseEncoderTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SimpleEncoder" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CypherEncoder" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.InverseEncoderTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MainApplication" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleEncoder" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
         <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.daoo.encoder in contrib" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CypherEncoder" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -555,12 +836,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <frame x="10" y="22" width="1420" height="860" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -569,17 +851,16 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32702702" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24605452" sideWeight="0.6708229" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24599709" sideWeight="0.672973" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32702702" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -644,114 +925,131 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/daoo/server/src/main/java/daoo/server/QueuedTaskExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="195" selection-end="211" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/daoo/server/src/main/java/daoo/server/PoolThreadTaskExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/daoo/server/src/main/java/daoo/server/NewThreadTaskExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/daoo/server/src/main/java/daoo/server/TaskExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="39" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/daoo/server/src/main/java/daoo/server/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="46" selection-start="217" selection-end="238" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/daoo/server/src/main/java/daoo/server/DaooTaskServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="40" selection-start="722" selection-end="767" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="19" selection-start="3638" selection-end="3638" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/daoo/ioc/MessageEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="31" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/daoo/ioc/MessageEncoderProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/InvertEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="50" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/PlainEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="34" selection-start="518" selection-end="518" vertical-scroll-proportion="0.0">
+        <state line="12" column="13" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/MainApplication.java">
+    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/SimpleEncoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="29" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
+        <state line="27" column="84" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/daoo/server/DaooTaskClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#703#730#0" expanded="true" />
+            <element signature="e#1877#1895#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/daoo/server/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#run#0;class#Task#0" expanded="false" />
+            <element signature="method#close#0;class#Task#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/daoo/server/TaskExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="80" selection-end="80" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contrib/src/test/java/daoo/encoder/InverseEncoderTest.java">
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/daoo/server/TaskServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="37" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/encoder/CypherEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="26" selection-start="1873" selection-end="1873" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/daoo/server/src/main/java/daoo/server/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="36" selection-start="3349" selection-end="3362" vertical-scroll-proportion="0.0">
+        <state line="9" column="45" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/EncoderTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="38" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.45406124">
+        <state line="16" column="35" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/EchoTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="31" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#echo#0;class#EchoTask#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/InfiniteTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/tasks/SleepyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/servers/DaooEncoderServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="50" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/executors/QueuedTaskExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="45" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/executors/PoolThreadTaskExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="45" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contrib/src/main/java/daoo/executors/NewThreadTaskExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="54" selection-start="284" selection-end="284" vertical-scroll-proportion="0.40268457">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
