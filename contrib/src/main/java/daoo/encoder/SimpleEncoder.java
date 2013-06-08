@@ -24,17 +24,15 @@ public class SimpleEncoder implements MessageEncoder{
     @Override
     public byte[] encode(@NotNull String message) {
         final String encode = new BASE64Encoder().encodeBuffer(message.getBytes());
-//        return Base64.encodeBase64(message.getBytes());
         return encode.getBytes();
 
     }
 
     @Override
     public String decode(@NotNull byte[] message) {
-//        return Base64.decodeBase64(message).toString();
         try {
-            final byte[] bytes = new BASE64Decoder().decodeBuffer(message.toString());
-            return bytes.toString();
+            final byte[] bytes = new BASE64Decoder().decodeBuffer(new String(message));
+            return new String(bytes);
         } catch (IOException e) {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
         }
@@ -48,7 +46,7 @@ public class SimpleEncoder implements MessageEncoder{
         byte[] messageEncoded = c.encode(message);
         String messageDecoded = c.decode(messageEncoded);
         System.out.println(message);
-        System.out.println(messageEncoded.toString());
+        System.out.println(new String(messageEncoded));
         System.out.println(messageDecoded);
 
 

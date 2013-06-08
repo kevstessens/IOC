@@ -1,35 +1,32 @@
 package daoo.encoder;
 
-import com.sun.istack.internal.NotNull;
-import junit.framework.Test;
 import junit.framework.TestCase;
-import junit.framework.TestSuite;
 
 /**
  * Created with IntelliJ IDEA.
  * User: keevstessens
- * Date: 17/05/13
- * Time: 17:57
+ * Date: 08/06/13
+ * Time: 11:04
  * To change this template use File | Settings | File Templates.
  */
+public class SimpleEncoderTest  extends TestCase {
 
-public class InverseEncoderTest extends TestCase {
-
-    InvertEncoder encoder = new InvertEncoder();
+    SimpleEncoder encoder = new SimpleEncoder();
 
 
     public void testEncoder()
     {
-        String s = "StringForTesting";
+        String s = "StringForTesting ";
         String s2 = new String(encoder.encode(s));
-        assertEquals(s2, ("gnitseTroFgnirtS"));
+        String s3 = "U3RyaW5nRm9yVGVzdGluZyA=";
+        assertEquals(s3, s2.replaceAll("\\s",""));
     }
 
     public void testDecoder()
     {
-        byte[] s = "StringForTesting".getBytes();
+        byte[] s = "U3RyaW5nRm9yVGVzdGluZyA=".getBytes();
         String s2 = encoder.decode(s);
-        assertEquals(s2, ("gnitseTroFgnirtS"));
+        assertEquals(s2, "StringForTesting ");
     }
 
     public void testEncodeDecode()
@@ -38,6 +35,5 @@ public class InverseEncoderTest extends TestCase {
         String s2 = encoder.decode(encoder.encode(s));
         assertEquals(s2,s);
     }
-
 
 }

@@ -45,9 +45,15 @@ public class EncoderTask extends Task
         out.write("\r\n");
         final String[] dividedPath = getHeaderPath(header.toString()).split("/");
             if (dividedPath[1].equals("encode")){
-                out.write(simpleEncoder.encode(dividedPath[2]).toString()+"\r\n");
+                out.write("You asked to encode:" +"\r\n");
+                out.write(dividedPath[2]+"\r\n");
+                out.write("Your encoded message is:" +"\r\n");
+                out.write(new String(simpleEncoder.encode(dividedPath[2]))+"\r\n");
             } else if (dividedPath[1].equals("decode")){
-                out.write(simpleEncoder.decode(dividedPath[2].getBytes()).toString()+"\r\n");
+                out.write("You asked to decode:" +"\r\n");
+                out.write(dividedPath[2]+"\r\n");
+                out.write("Your decoded message is:" +"\r\n");
+                out.write(simpleEncoder.decode(dividedPath[2].getBytes())+"\r\n");
             }
             else {
                 out.write("Please select an action (ie. encode/YourMessage)" +"\r\n");
